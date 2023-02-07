@@ -4,7 +4,7 @@ var effective_sun_direction: Vector3
 var sun_blocked: bool
 var adjust_time: float = 0.15
 
-# these are just some variables for writing the code, replace this with the actuall references
+# these are just some variables for writing the code, replace this with the actual references
 var directional_light: DirectionalLight3D
 var camera: Camera3D
 
